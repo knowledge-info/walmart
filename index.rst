@@ -3,7 +3,7 @@ Walmart Gift Card Balance – The Complete Guide for Shoppers
 
 .. image:: get.jpg
    :alt: Walmart Gift Card Balance
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly93YWxtYXJ0aGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 
 Walmart Gift Cards offer a seamless and secure way to shop online and in-store. Whether you’re managing personal spending, giving a thoughtful gift, or using it for corporate rewards, keeping track of the available balance ensures a smooth experience.
